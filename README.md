@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h2>Hey 👋, I'm <a href="https://colburncodes.github.io/portfolio/">colburn</a></h2>
 <p>I'm currently a software programmer .net full stack <strong><a>financial institution</a></strong> based in 🌁 St Louis. I am working on some side projects, learning a couple new dishes, and trying to conquer the world in Division 2.</p>
